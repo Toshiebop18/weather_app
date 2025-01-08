@@ -7,12 +7,16 @@ This is a simple weather application that takes city inputs from users and displ
 ## Table of Content  
 
 - [Description](#description)
+- [Deployment](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)  
+
+## Deployment  
+The application is deployed on render.com. Find the link to the deployed site [here](https://weather-app-p43l.onrender.com/)
   
 ## Installation  
  - `git clone https://github.com/Toshiebop18/weather_app`  
